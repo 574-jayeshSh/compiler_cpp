@@ -1,0 +1,35 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.lib
+
+# Assembly outputs (if you don’t want to track generated .asm)
+*.asm
+
+# Build directories
+/build/
+/bin/
+/dist/
+/Debug/
+/Release/
+
+# IDE/project settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*.user
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+example
+example.pi
