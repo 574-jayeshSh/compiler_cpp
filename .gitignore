@@ -10,8 +10,6 @@
 *.dll
 *.lib
 
-# Assembly outputs (if you don’t want to track generated .asm)
-*.asm
 
 # Build directories
 /build/
@@ -33,3 +31,4 @@
 Thumbs.db
 example
 example.pi
+folks
