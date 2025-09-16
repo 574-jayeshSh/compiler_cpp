@@ -1,4 +1,10 @@
-print("hi there! ");
-print("hi there2!");
-print("hi there!");
-return 0 ;
+x set 10
+y set 20
+loop 1 to 10 as i
+    aakitoo i
+    
+
+
+
+
+
